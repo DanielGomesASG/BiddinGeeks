@@ -1,4 +1,4 @@
-#BiddinGeeks - Trabalho feito na faculdade (2021)
+# BiddinGeeks - Trabalho feito na faculdade (2021)
 O BiddinGeeks é um leilão online para videogames, jogos, itens de colecionadores, e tudo relacionado ao universo gamer. 
 Ele foi criado com o objetivo principal de suprir a necessidade que temos de realizar vendas e leiloes desses itens por um preço acessível, visando atender toda a comunidade gamer, desde jogadores procurando jogos usados e mais baratos, até colecionadores tentando encontrar itens raros e de alto valor.
 
